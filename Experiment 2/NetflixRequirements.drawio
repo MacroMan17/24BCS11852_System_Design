@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Netflix System Architecture" id="CZkT8S5HhHwQHh0nhR9x">
+    <mxGraphModel dx="824" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wP1zYB47rww-05Lu1kwa-28" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;" value="Netflix System design" vertex="1">
+          <mxGeometry height="50" width="400" x="260" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;" value="Functional Requirements" vertex="1">
+          <mxGeometry height="45" width="330" x="60" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Play video" vertex="1">
+          <mxGeometry height="45" width="330" x="60" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Search movie" vertex="1">
+          <mxGeometry height="45" width="330" x="60" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Login/Signup" vertex="1">
+          <mxGeometry height="45" width="330" x="60" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Continue watching" vertex="1">
+          <mxGeometry height="45" width="330" x="60" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Recommend movies and shows" vertex="1">
+          <mxGeometry height="45" width="330" x="60" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Add to My List" vertex="1">
+          <mxGeometry height="45" width="330" x="60" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Grouping movies according to genres" vertex="1">
+          <mxGeometry height="45" width="330" x="60" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Download movies and shows" vertex="1">
+          <mxGeometry height="45" width="330" x="60" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;" value="Non - Functional Requirements" vertex="1">
+          <mxGeometry height="45" width="330" x="520" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="High availability" vertex="1">
+          <mxGeometry height="45" width="330" x="520" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Scalability" vertex="1">
+          <mxGeometry height="45" width="330" x="520" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Reliability" vertex="1">
+          <mxGeometry height="45" width="330" x="520" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Fault tolerance" vertex="1">
+          <mxGeometry height="45" width="330" x="520" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Security" vertex="1">
+          <mxGeometry height="45" width="330" x="520" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Durability" vertex="1">
+          <mxGeometry height="45" width="330" x="520" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Low latency" vertex="1">
+          <mxGeometry height="45" width="330" x="520" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-46" edge="1" parent="1" style="endArrow=none;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="70" as="sourcePoint" />
+            <mxPoint x="460" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-47" edge="1" parent="1" style="endArrow=none;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="110" as="sourcePoint" />
+            <mxPoint x="685" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-48" edge="1" parent="1" style="endArrow=none;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="110" as="sourcePoint" />
+            <mxPoint x="225" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP1zYB47rww-05Lu1kwa-49" edge="1" parent="1" style="endArrow=none;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="110" as="sourcePoint" />
+            <mxPoint x="685" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
