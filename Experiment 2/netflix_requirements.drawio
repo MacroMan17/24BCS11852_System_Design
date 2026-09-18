@@ -1,0 +1,32 @@
+<mxfile host="app.diagrams.net" modified="2026-09-16T00:00:00.000Z" agent="Claude" version="24.0.0" type="device">
+  <diagram name="Netflix Requirements" id="netflix-reqs-1">
+    <mxGraphModel dx="1000" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="950" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c1001" value="Netflix System design" style="text;html=1;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="260" y="20" width="400" height="50" as="geometry" /></mxCell>
+        <mxCell id="c1002" value="Functional Requirements" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="60" y="160" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1003" value="Play video" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="60" y="205" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1004" value="Search movie" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="60" y="250" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1005" value="Create profile" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="60" y="295" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1006" value="Continue watching" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="60" y="340" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1007" value="Recommend movies and shows" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="60" y="385" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1008" value="Add to My List" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="60" y="430" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1009" value="Grouping movies according to genres" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="60" y="475" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1010" value="Download movies and shows" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="60" y="520" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1011" value="Non - Functional Requirements" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="520" y="160" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1012" value="High availability" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="520" y="205" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1013" value="Scalability" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="520" y="250" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1014" value="Reliability" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="520" y="295" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1015" value="Fault tolerance" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="520" y="340" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1016" value="Security" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="520" y="385" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1017" value="Durability" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="520" y="430" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1018" value="Low latency" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="520" y="475" width="330" height="45" as="geometry" /></mxCell>
+        <mxCell id="c1019" style="endArrow=none;html=1;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="460" y="70" as="sourcePoint" /><mxPoint x="460" y="110" as="targetPoint" /></mxGeometry></mxCell>
+        <mxCell id="c1020" style="endArrow=none;html=1;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="225" y="110" as="sourcePoint" /><mxPoint x="685" y="110" as="targetPoint" /></mxGeometry></mxCell>
+        <mxCell id="c1021" style="endArrow=none;html=1;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="225" y="110" as="sourcePoint" /><mxPoint x="225" y="160" as="targetPoint" /></mxGeometry></mxCell>
+        <mxCell id="c1022" style="endArrow=none;html=1;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="685" y="110" as="sourcePoint" /><mxPoint x="685" y="160" as="targetPoint" /></mxGeometry></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
